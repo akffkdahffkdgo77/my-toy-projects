@@ -33,9 +33,17 @@ __Duration__ : 2022.10.24 ~ 2022.11.20
 __Skills__ : React.js, TypeScript, react-router-dom, react-slick + slick-carousel, react-calendar, @pronestor/react-zoom-pan-pinch    
 __Duration__ : 2022.11.04 ~ 2022.11.11   
 
-## Week 7 - My Dashboard
+## Week 7 - My Editor
+### __*Clone Coding Rich Text Editor*__   
+__Skills__ : React.js, Slate, react-router-dom    
+__Duration__ : 2022.11.21 ~ 2022.11.30
+
+## Week 8 - My Dashboard
 ### __*Clone Coding Dashboard*__   
-__Skills__ : React.js, TypeScript, react-router-dom    
-__Duration__ : 2022.11.21 ~    
-   
-   
+__Skills__ : React.js, TypeScript, D3, react-router-dom    
+__Duration__ : ~  
+
+## Week 9 - My Blog
+### __*Clone Coding Blog*__   
+__Skills__ : Next.js, React.js, TypeScript, react-router-dom    
+__Duration__ : ~     
