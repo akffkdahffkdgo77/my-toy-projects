@@ -36,7 +36,7 @@ __Duration__ : 2022.11.04 ~ 2022.11.11
 ## Week 7 - My Editor
 ### __*Clone Coding Rich Text Editor*__   
 __Skills__ : React.js, Slate, react-router-dom    
-__Duration__ : 2022.11.21 ~ 2022.11.30
+__Duration__ : 2022.11.21 ~ 2022.12.04
 
 ## Week 8 - My Dashboard
 ### __*Clone Coding Dashboard*__   
