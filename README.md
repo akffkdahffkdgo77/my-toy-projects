@@ -34,8 +34,8 @@ __Skills__ : React.js, TypeScript, react-router-dom, react-slick + slick-carouse
 __Duration__ : 2022.11.04 ~ 2022.11.11   
 
 ## Week 7 - My Editor
-### __*Clone Coding Rich Text Editor*__   
-__Skills__ : React.js, Slate, react-router-dom    
+### __*[Clone Coding Rich Text Editor](https://github.com/namiein/my-editor)*__   
+__Skills__ : React.js, Slate   
 __Duration__ : 2022.11.21 ~ 2022.12.04
 
 ## Week 8 - My Dashboard
