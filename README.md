@@ -41,7 +41,7 @@ __Duration__ : 2022.11.21 ~ 2022.12.04
 ## Week 8 - My Dashboard
 ### __*Clone Coding Dashboard*__   
 __Skills__ : React.js, TypeScript, D3, react-router-dom    
-__Duration__ : ~  
+__Duration__ : 2022.12.05 ~ 2022.12.31
 
 ## Week 9 - My Blog
 ### __*Clone Coding Blog*__   
