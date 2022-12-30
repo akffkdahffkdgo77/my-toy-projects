@@ -39,6 +39,6 @@ __Skills__ : React.js, Slate
 __Duration__ : 2022.11.21 ~ 2022.12.04
 
 ## Week 8 - My Dashboard
-### __*Clone Coding Dashboard*__   
+### __*[Clone Coding Dashboard](https://github.com/namiein/my-dashboard)*__   
 __Skills__ : React.js, TypeScript, D3, react-router-dom    
 __Duration__ : 2022.12.05 ~ 2022.12.31
