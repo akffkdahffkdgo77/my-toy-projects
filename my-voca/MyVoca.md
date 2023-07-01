@@ -1,4 +1,8 @@
-<img width="1500" alt="my voca header" src="https://github.com/akffkdahffkdgo77/weekly-clone-coding/assets/52883505/edb04826-efca-4a44-8fff-de1f665e1a0d">
+<picture>
+  <source media="(max-width: 500px)" srcset="https://github.com/akffkdahffkdgo77/weekly-clone-coding/assets/52883505/28aca8ff-1ae2-42af-8320-efd302402c6a" />
+  <source media="(min-width: 501px)" srcset="https://github.com/akffkdahffkdgo77/weekly-clone-coding/assets/52883505/edb04826-efca-4a44-8fff-de1f665e1a0d" />
+  <img width="1500" src="https://github.com/akffkdahffkdgo77/weekly-clone-coding/assets/52883505/edb04826-efca-4a44-8fff-de1f665e1a0d" alt="my voca headera" />
+</picture>
 <br/>
 <br/>
 <table>
