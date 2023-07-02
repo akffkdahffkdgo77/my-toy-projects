@@ -6,7 +6,7 @@
 ## Week 1 - My Voca
 ![Duration](https://img.shields.io/badge/Duration-2022.09.22%20~%202022.10.02-pink?style=flat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-voca&theme=cobalt)](https://github.com/namiein/my-voca)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-voca&theme=cobalt)](https://github.com/akffkdahffkdgo77/weekly-clone-coding/blob/main/my-voca/MyVoca.md)   
 <object>
 <img src="https://img.shields.io/badge/docs-%EB%8B%A8%EC%96%B4%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-black?style=for-the-badge&link=https://github.com/namiein/weekly-clone-coding/blob/main/my-voca/1.md&link=https://github.com/akffkdahffkdgo77/weekly-clone-coding/blob/main/my-voca/1.md"/>
 </object>
