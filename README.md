@@ -6,7 +6,7 @@
 ## NO 1 - My Voca
 ![My Voca v1](https://img.shields.io/badge/v1-2022.09.22%20~%202022.10.02-pink?style=flat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-voca&theme=cobalt)](https://github.com/akffkdahffkdgo77/my-toy-projects/blob/main/my-voca/MyVoca.md)   
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-voca&theme=cobalt)](https://github.com/akffkdahffkdgo77/my-voca)   
 <object>
 <img src="https://img.shields.io/badge/docs-%EB%8B%A8%EC%96%B4%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-black?style=for-the-badge&link=https://github.com/akffkdahffkdgo77/my-toy-projects/blob/main/my-voca/1.md&link=https://github.com/akffkdahffkdgo77/my-toy-projects/blob/main/my-voca/1.md"/>
 </object>
