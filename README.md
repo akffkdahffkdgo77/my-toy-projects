@@ -27,10 +27,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-color-palette&theme=merko)](https://github.com/akffkdahffkdgo77/my-color-palette)  
 
-## NO 4 - My Sticker
-![My Sticker v1](https://img.shields.io/badge/v1-2022.10.16%20~%202022.10.23-pink?style=flat)
+## NO 4 - My Meme Maker
+![My Meme Maker v1](https://img.shields.io/badge/v1-2022.10.16%20~%202022.10.23-pink?style=flat)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-sticker&theme=gruvbox)](https://github.com/akffkdahffkdgo77/my-sticker)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-sticker&theme=gruvbox)](https://github.com/akffkdahffkdgo77/my-meme-maker)  
 
 ## NO 5 - My Audio Player
 ![My Audio Player v1](https://img.shields.io/badge/v1-2022.10.24%20~%202022.11.20-pink?style=flat)
