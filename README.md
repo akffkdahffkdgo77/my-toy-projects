@@ -49,3 +49,8 @@
 ![My Dashboard v1](https://img.shields.io/badge/v1-2022.12.05%20~%202022.12.31-pink?style=flat)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-dashboard&theme=nightowl)](https://github.com/akffkdahffkdgo77/my-dashboard)  
+
+## NO 9 - My Calculator 
+![My Calculator v1](https://img.shields.io/badge/v1-2023.01.01%20~%202023.01.07-pink?style=flat)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=my-calculator&theme=dracula)](https://github.com/namiein/my-calculator)   
