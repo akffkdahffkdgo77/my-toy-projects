@@ -1,8 +1,6 @@
 # My Toy Projects
 ### __*Practicing, Learning Front-End Knowledge and Skills*__   
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=akffkdahffkdgo77&repo=farewell-2022&theme=dracula)](https://github.com/akffkdahffkdgo77/farewell-2022)
-
 ## NO 1 - My Voca
 ![My Voca v1.0](https://img.shields.io/badge/v1.0-2022.09.22%20~%202022.10.02-ffe5ec?style=for-the-badge)
 ![My Voca v1.0.1](https://img.shields.io/badge/v1.0.1-2023--03-ffc2d1?style=for-the-badge)
